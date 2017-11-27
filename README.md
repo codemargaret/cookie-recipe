@@ -1,36 +1,39 @@
-# _{Cookie Recipe}_
+# _Cookie Recipe_
 
-#### _{HTML/README Exercise for Epicodus}, {August 1st, 2017}_
+#### _HTML/README Exercise for Epicodus, 08.01.2017_
 
-#### By _**{Margaret Berry and Michael Holland}**_
+#### By _**Margaret Berry and Michael Holland**_
 
 ## Description
 
-_{This is a fantastic cookie recipe.  You can follow the directions to make divine cookies. This file is an exercise in editing HTML and formatting READMEs.}_
+_This is a fantastic cookie recipe.  You can follow the directions to make divine cookies. _
 
 ## Setup/Installation Requirements
+_Run the following commands in Terminal:_
 
-* _Clone the repository._
-* _Make any necessary changes in Atom._
-* _Follow the step-by-step directions._
-* _Eat cookies._
+1. `$ git clone` [this repository](https://github.com/codemargaret/cookie-recipe.git)
+2. `$ cd cookie-recipe`
+3. `$ open index.html`
+4. _Follow the step-by-step directions._
+5. _Eat cookies._
+
+_Open in your preferred text editor for a closer look at the code._
+
+## Project Goals
+_This was an exercise in editing HTML and formatting READMEs._
 
 ## Known Bugs
-
-_{No known bugs because we are excellent coders.}_
+_No known bugs because we are excellent coders._
 
 ## Support and contact details
-
-_{If you have any issues, questions, ideas or concerns, please contact Margaret or Michael at Epicodus, or make a contribution to the code.}_
+_If you have any issues, questions, ideas or concerns, please contact Margaret or Michael at Epicodus, or make a contribution to the code._
 
 ## Technologies Used
 
 * _HTML_
-* _GitHub_
-* _Atom_
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2017 **_{Margaret Berry and Michael Holland}_**
+Copyright (c) 2017 **_Margaret Berry and Michael Holland_**
