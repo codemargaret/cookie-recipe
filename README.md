@@ -13,7 +13,7 @@ _Run the following commands in Terminal:_
 
 1. `$ git clone` [this repository](https://github.com/codemargaret/cookie-recipe.git)
 2. `$ cd cookie-recipe`
-3. `$ open index.html`
+3. `$ open cookie-recipe.html`
 4. _Follow the step-by-step directions._
 5. _Eat cookies._
 
