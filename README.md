@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a fantastic cookie recipe.  You can follow the directions to make divine cookies. _
+_This is a fantastic cookie recipe.  You can follow the directions to make divine cookies._
 
 ## Setup/Installation Requirements
 _Run the following commands in Terminal:_
@@ -26,7 +26,9 @@ _This was an exercise in editing HTML and formatting READMEs._
 _No known bugs because we are excellent coders._
 
 ## Support and contact details
-_If you have any issues, questions, ideas or concerns, please contact Margaret or Michael at Epicodus, or make a contribution to the code._
+_If you have any issues, questions, ideas or concerns, please contact [Margaret] or Michael at Epicodus, or make a contribution to the code._
+
+[Margaret]: mailto:margaretshelaghmcgovern@gmail.com
 
 ## Technologies Used
 
