@@ -28,7 +28,7 @@ _No known bugs because we are excellent coders._
 ## Support and contact details
 _If you have any issues, questions, ideas or concerns, please contact [Margaret] or Michael at Epicodus, or make a contribution to the code._
 
-[Margaret]: mailto:margaretshelaghmcgovern@gmail.com
+[Margaret]: mailto:codeberry1@gmail.com
 
 ## Technologies Used
 
